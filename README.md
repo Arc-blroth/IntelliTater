@@ -1,12 +1,14 @@
 # IntelliTater
 
+[![IntelliTater](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Arc-blroth/IntelliTater/blob/master/IntelliTater.ipynb) ![Tiny Potato will Rule the World](https://img.shields.io/static/v1?label=Tiny%20Potato&message=will%20rule%20the%20world%21&color=orange&style=flat)
+
 IntelliTater is a 100% automated way to generate tater background splash screens for IntelliJ-family IDEs.
 
 The algorithm used is currently taliored to the 2021.x style of splashes, but it shouldn't be too hard to edit the algorithm to handle other versions.
 
 ## Getting Started
 
-To spin up a quick development enviornment, open up this repo in Google Colab: [IntelliTater](https://colab.research.google.com/github/Arc-blroth/IntelliTater/blob/master/IntelliTater.inpynb).
+To spin up a quick development environment, open this repo in [Google Colab](https://colab.research.google.com/github/Arc-blroth/IntelliTater/blob/master/IntelliTater.ipynb).
 
 ## Disclaimers
 
